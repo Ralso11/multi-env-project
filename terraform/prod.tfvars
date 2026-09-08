@@ -1,2 +1,2 @@
-environment         = "prod"
-lambda_memory_size  = 256
+environment        = "prod"
+lambda_memory_size = 256
